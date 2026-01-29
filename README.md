@@ -1,5 +1,5 @@
-## [Dustin Brett's Portfolio](dustinbrett.com)
-A really interesting website relating to software developlment is a website created by [Dustin Brett](dustinbrett.com). It is essentially an OS (Operating System) simulator that mimics the behaviour of a traditional operating system, such as Windows.
+## [Dustin Brett's Portfolio](https://dustinbrett.com)
+A really interesting website relating to software developlment is a website created by [Dustin Brett](https://dustinbrett.com). It is essentially an OS (Operating System) simulator that mimics the behaviour of a traditional operating system, such as Windows.
 
 It is a really impressive website; the graphics are extremely sharp and clear, the website's interactivity is incredibly smooth, and it has lots of amazing functionalities. You can tell that a lot of time and work has been put into this project. 
 
